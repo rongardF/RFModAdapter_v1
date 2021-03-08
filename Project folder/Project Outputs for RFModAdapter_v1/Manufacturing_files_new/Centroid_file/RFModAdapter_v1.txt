@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+C:\Users\User\Documents\Projektid\Altium\Projects\RFModAdapter_v1\Project Outputs for RFModAdapter_v1\Generates pick and place files\RFModAdapter_v1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07.10.19
+Time:       22:17
+Revision:   Not in VersionControl
+Variant:    RFModAdapter_v1
+Units used: mil
+
+Designator Comment           Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                                                        
+FB1        7m                TopLayer    ferrite_0603       127.953       1102.362      90       "23 Ohms @ 100MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 4A 7mOhm"                           
+D2         26V               BottomLayer DO-214AC_diode     177.165       398.622       90       "26V Standoff, 42.1V Clamp 9.5A Ipp Tvs Diode Surface Mount DO-214AC (SMA)"                        
+U1         TPS54561DPRR      TopLayer    WSON-10            346.457       515.748       0        "Buck, Split Rail Switching Regulator IC Positive Adjustable 0.8V 1 Output 5A 10-WDFN Exposed Pad" 
+R4         11k               TopLayer    RES_0402           585.630       486.221       180      "0402, 11k, 1%, 0.1W, Res"                                                                         
+R3         124k              TopLayer    RES_0402           204.724       437.992       90       "0402, 124k, 1%, 0.1W, Res"                                                                        
+R2         10k               TopLayer    RES_0402           748.032       501.969       270      "0402, 10k, 1%, 0.1W, Res"                                                                         
+R1         191k              TopLayer    RES_0402           930.118       452.756       360      "0402, 191k, 1%, 0.1W, Res"                                                                        
+L1         10u               TopLayer    ETQ-P3M100HFN      1007.874      732.283       270      "10µH Shielded  Inductor 3.7A 74.8mOhm Max 2-SMD, J-Lead"                                          
+J3         JST-BM04B-GHS     TopLayer    JST-BM04B_HEADER   318.898       196.850       180      "CONN HEADER SMD 4POS 1.25MM, JST-GH series"                                                       
+J2         TE-32M-ASSY       BottomLayer TE-32M-ASSY        629.921       1496.063      180      "API/SupplyNet pogo-pin connector, 32pins, 4 rows"                                                 
+J1         DF56-50S-0.3V(51) TopLayer    Header_Hirose_DF56 635.827       1111.614      360      "CONN RCPT 50POS 0.012 GOLD SMD"                                                                   
+D1         B560C-13-F        TopLayer    B560C-13-F         570.866       779.528       360      "Diode Schottky 60V 5A Surface Mount SMC"                                                          
+C9         15n               TopLayer    CAP_0402           677.165       500.984       90       "0402, 15nF, 50V, X7R, ESR 0m, MLCC"                                                               
+C8         82p               TopLayer    CAP_0402           503.937       500.984       90       "0402, 82pF, 50V, C0G/NP0, ESR 0m, MLCC"                                                           
+C7         2.7n              TopLayer    CAP_0402           137.795       437.992       270      "0402, 2.7nF, 50V, X7R, ESR 0m, MLCC"                                                              
+C6         2.2u              TopLayer    CAP_0805           244.095       913.386       360      "0805, 2.2uF, 50V, X5R, ESR 0m, MLCC"                                                              
+C5         2.2u              TopLayer    CAP_0805           244.095       807.087       360      "0805, 2.2uF, 50V, X5R, ESR 0m, MLCC"                                                              
+C4         2.2u              TopLayer    CAP_0805           244.095       700.787       360      "0805, 2.2uF, 50V, X5R, ESR 0m, MLCC"                                                              
+C3         1u                TopLayer    CAP_0805           1074.803      460.630       360      "0805, 1uF, 50V, X7R, ESR 0m, MLCC"                                                                
+C2         47u               TopLayer    25SVPF47M_C6       905.512       236.220       180      "47µF 25V Aluminum Polymer Capacitor Radial, Can - SMD 30mOhm 5000 Hrs @ 105°C"                    
+C1         100n              BottomLayer CAP_0402           351.378       681.102       180      "0402, 100nF, 50V, X7R, ESR 0m, MLCC"                                                              

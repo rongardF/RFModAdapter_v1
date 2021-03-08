@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:25:16 On 05.10.2019
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [RFModAdapter_v1_J2_not_fitted] of PCB Document [pcb.PcbDoc]
+   Generated File[RFModAdapter_v1_J2_not_fitted.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:25:25 On 05.10.2019

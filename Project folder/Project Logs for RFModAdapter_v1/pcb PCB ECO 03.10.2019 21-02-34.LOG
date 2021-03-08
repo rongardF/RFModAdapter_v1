@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USB0_GND Pin=J2-19
+Removed Pin From Net: NetName=USB0_VBUS Pin=J2-21
+Removed Pin From Net: NetName=SHUTDOWN Pin=J2-28
+Added Pin To Net: NetName=USB0_VBUS Pin=J2-19
+Added Pin To Net: NetName=SHUTDOWN Pin=J2-21
+Added Pin To Net: NetName=USB0_GND Pin=J2-28

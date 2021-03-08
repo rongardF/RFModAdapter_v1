@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=USB0_GND Pin=J2-17
+Removed Pin From Net: NetName=USB0_GND Pin=J2-18
+Removed Pin From Net: NetName=USB0_D_N Pin=J2-19
+Removed Pin From Net: NetName=USB0_D_P Pin=J2-21
+Removed Pin From Net: NetName=USB0_VBUS Pin=J2-24
+Added Pin To Net: NetName=USB0_D_N Pin=J2-17
+Added Pin To Net: NetName=USB0_D_P Pin=J2-18
+Added Pin To Net: NetName=USB0_GND Pin=J2-19
+Added Pin To Net: NetName=USB0_VBUS Pin=J2-21
+Added Pin To Net: NetName=USB0_GND Pin=J2-24

@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\User\Documents\Projektid\Altium\Projects\RFModAdapter_v1\pcb.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit_NotInAny|Scope=Board|Allowed=1
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.69
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.30
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

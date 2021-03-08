@@ -1,0 +1,31 @@
+\t (00:00:00) allegro_free_viewer 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Oct 13 16:01:16 2019
+\t (00:00:00)         Host=DESKTOP-PU2HGN9 User=User Pid=2208 CPUs=8
+\t (00:00:00) CmdLine= C:\Users\User\AppData\Local\Programs\Cadence Design Systems\17.2\tools\bin\allegro_free_viewer.exe
+\t (00:00:00) 
+\t (00:00:00) Starting new design...
+\i (00:00:00) trapsize 641
+\i (00:00:00) trapsize 629
+\i (00:00:00) trapsize 641
+\i (00:00:00) trapsize 1016
+\i (00:00:03) open 
+\i (00:00:27) fillin "menu_cancel"
+\i (00:00:31) open 
+\i (00:00:33) fillin "menu_cancel"
+\i (00:00:37) viewlog -browse 
+\i (00:01:01) fillin "C:\Users\User\Documents\Projektid\Altium\Projects\RFModAdapter_v2\RFModAdapter_v2_2_output\Gerber\Board_outline.GM13"
+\i (00:01:05) setwindow text
+\i (00:01:05) close 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) open 
+\i (00:01:17) fillin "C:\Users\User\Documents\Projektid\Altium\Projects\RFModAdapter_v2\RFModAdapter_v2_2_output\Gerber\Via_filling.GM14"
+\i (00:01:17) cd "C:\Users\User\Documents\Projektid\Altium\Projects\RFModAdapter_v2\RFModAdapter_v2_2_output\Gerber"
+\t (00:01:17) Opening existing design...
+\e (00:01:17) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\e (00:01:17) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\i (00:01:22) fillin confirm
+\t (00:01:22) Starting new design...
+\i (00:01:22) trapsize 1016
+\i (00:01:23) fillin "menu_cancel"
+\i (00:02:23) exit 
+\t (00:02:24)     Journal end - Sun Oct 13 16:03:40 2019
